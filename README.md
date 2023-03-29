@@ -1,1 +1,3 @@
 # CapstoneProject
+
+## Greg Lynskey
